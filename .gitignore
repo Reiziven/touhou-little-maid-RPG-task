@@ -1,18 +1,25 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# ===== GRADLE =====
+.gradle/
+build/
 
-# Other files and folders
+# ===== FORGE DEV RUNTIME =====
+run/
+logs/
+
+# ===== INTELLIJ IDEA =====
+.idea/
+*.iml
+out/
+
+# ===== ECLIPSE (SE ABRIR POR LÁ) =====
 .settings/
+.project
+.classpath
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# ===== OS =====
+.DS_Store
+Thumbs.db
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# ===== JAVA =====
+hs_err_pid*
+replay_pid*
