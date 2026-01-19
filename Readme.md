@@ -8,7 +8,7 @@ protect allies have strong defence bigger health, can stun and provoke, have low
 
 ## DPS
 
-Damage dealer have big attack and faster attack speed if equip sword in second han deal bigger damage, have low health
+Damage dealer have big attack and faster attack speed if equip sword in second hand deal bigger damage, have low health
 
 ## Support
 
