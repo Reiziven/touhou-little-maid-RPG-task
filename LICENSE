@@ -1,21 +1,34 @@
-The MIT License (MIT)
+PROPRIETARY AND CONFIDENTIAL LICENSE
 
-Copyright (c) 2025 
+Copyright (c) 2025
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+TERMS AND CONDITIONS
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+1. GRANT OF LICENSE
+This license grants you a limited, non-exclusive, non-transferable right to view and use this code for personal, non-commercial purposes only, solely within your own environment.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+2. RESTRICTIONS
+You are expressly prohibited from:
+   a) Distributing, sharing, or making available this code to any third party, whether for free or for compensation
+   b) Using this code in your own projects, products, or services
+   c) Modifying, adapting, or creating derivative works based on this code
+   d) Sublicensing or transferring any rights to this code
+   e) Reproducing this code in any form or medium
+   f) Selling, renting, leasing, or otherwise commercializing this code
+   g) Publishing this code on any platform, repository, or website
+   h) Incorporating this code into any open-source or closed-source project
+
+3. OWNERSHIP
+All right, title, and interest in the Software, including all intellectual property rights, remain the exclusive property of the copyright holder.
+
+4. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any terms of this license.
+
+7. ENTIRE AGREEMENT
+This license constitutes the entire agreement between you and the copyright holder regarding the use of this code.
