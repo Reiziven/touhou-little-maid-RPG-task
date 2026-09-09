@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "studio.fantasyit.maid_rpg_task.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "maid_rpg_task.refmap.json",
+  "mixins": [
+    "ItemSmartSlabMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
