@@ -1,1 +1,0 @@
-now do for ice but it will use ice spike model instead of particle , there's a animation already that launch the ice spike from the front of the magic circle ice
