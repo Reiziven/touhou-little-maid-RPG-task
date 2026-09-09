@@ -1,0 +1,39 @@
+{
+  "forge:conditions": [
+    {
+      "type": "maid_rpg_task:bauble_craftable",
+      "bauble": "master_soul_spell_alt"
+    }
+  ],
+  "type": "touhou_little_maid:altar_crafting",
+  "output": {
+    "type": "minecraft:item",
+    "nbt": {
+      "Item": {
+        "id": "maid_rpg_task:master_soul_spell",
+        "Count": 1
+      }
+    }
+  },
+  "power": 0.8,
+  "ingredients": [
+    {
+      "item": "wtouhou_little_maid:smart_slab_empty"
+    },
+    {
+      "tag": "forge:logs"
+    },
+    {
+      "tag": "forge:logs"
+    },
+    {
+      "tag": "forge:logs"
+    },
+    {
+      "tag": "forge:logs"
+    },
+    {
+      "tag": "forge:logs"
+    }
+  ]
+}
